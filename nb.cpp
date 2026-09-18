@@ -19,5 +19,6 @@ int main() {
     std::cout<<"le resultat de l'addition est :"<<x+a;
     std::cout<<"le resultat de la soustraction est :"<<x-b;
     std::cout<<"le resultat de la multiplication est :"<<x*a;
+    std::cout<<"le resultat de la division est :"<<x/b;
     return 0;
    }
