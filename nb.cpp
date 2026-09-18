@@ -17,5 +17,6 @@ int main() {
     std::cin>>x;
     std::cout<<"le resultat de l'addition est :"<<x+a;
     std::cout<<"le resultat de la soustraction est :"<<x-b;
+    std::cout<<"le resultat de la multiplication est :"<<x*a;
     return 0;
    }
