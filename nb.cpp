@@ -3,6 +3,7 @@
 #include <ctime>
 int main() { 
    
+    const int NOMBRE_MAX = 10;
     int nombre;
    srand(time(NULL));
 
