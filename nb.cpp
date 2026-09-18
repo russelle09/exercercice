@@ -3,6 +3,7 @@
 #include <ctime>
 int main() { 
    
+    int nombre;
    srand(time(NULL));
 
    int nombresecret = rand()% 100 + 1;
